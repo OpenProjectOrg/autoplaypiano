@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 32" fill="none" width="90" height="32">
+  <!-- BNI Text -->
+  <text x="4" y="24" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="22" fill="#005E6A" letter-spacing="-0.5">BNI</text>
+  
+  <!-- Orange 46 emblem -->
+  <rect x="52" y="6" width="34" height="20" rx="3" fill="#F15A24"/>
+  <text x="56" y="21" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-style="italic" font-size="14" fill="#FFFFFF" letter-spacing="-0.5">46</text>
+</svg>

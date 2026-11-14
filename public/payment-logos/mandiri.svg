@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 32" fill="none" width="105" height="32">
+  <!-- Mandiri golden ribbon wave -->
+  <path d="M68 6C74 3 84 4 92 8C86 10 78 9 70 8.5C67 8.3 64 7.5 68 6Z" fill="#F8B122"/>
+  <path d="M74 4C82 1 93 3 100 8C94 9 86 7 77 6C75 5.8 72 5 74 4Z" fill="#F09200"/>
+  
+  <!-- Text mandiri -->
+  <text x="4" y="24" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-weight="800" font-size="20" fill="#003D79" letter-spacing="-0.5">mandiri</text>
+</svg>
