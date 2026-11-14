@@ -175,6 +175,12 @@ autopiano-opensource/
 
 ---
 
+## Contributing
+
+We welcome community contributions, bug reports, and feature suggestions! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](.github/CODE_OF_CONDUCT.md) for details on code style, architectural rules, and the pull request process.
+
+---
+
 ## License
 
 This project is released under the **MIT License**. You are free to use, modify, and distribute this software for personal and community use.
